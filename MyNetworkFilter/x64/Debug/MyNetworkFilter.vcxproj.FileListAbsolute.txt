@@ -1,0 +1,2 @@
+C:\Users\madrupam\mydrivers\MyNetworkFilter\x64\Debug\MyNetworkFilter.sys
+C:\Users\madrupam\mydrivers\MyNetworkFilter\x64\Debug\MyNetworkFilter.pdb

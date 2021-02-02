@@ -1,0 +1,2 @@
+C:\Users\madrupam\source\repos\MdProxyService\Debug\MdProxyService.exe
+C:\Users\madrupam\source\repos\MdProxyService\Debug\MdProxyService.pdb

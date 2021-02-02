@@ -1,0 +1,26 @@
+﻿  Building 'MyNetworkFilter' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\MyNetworkFilter.inf
+  Stamping [Version] section with DriverVer=01/16/2021,20.35.38.868
+C:\Users\madrupam\mydrivers\MyNetworkFilter\MyNetworkFilter.inf : warning 1420: [DefaultInstall]-based INF cannot be processed as Primitive.
+C:\Users\madrupam\mydrivers\MyNetworkFilter\MyNetworkFilter.inf(29-29): warning 1421: Section [DefaultInstall] should have an architecture decoration.
+C:\Users\madrupam\mydrivers\MyNetworkFilter\MyNetworkFilter.inf(36-36): warning 1421: Section [DefaultUninstall] should have an architecture decoration.
+C:\Users\madrupam\mydrivers\MyNetworkFilter\MyNetworkFilter.inf(42-42): warning 1205: Section [MyNetworkFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  wfp.c
+  MyNetworkFilter.vcxproj -> C:\Users\madrupam\mydrivers\MyNetworkFilter\x64\Debug\MyNetworkFilter.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\madrupam\mydrivers\MyNetworkFilter\x64\Debug\MyNetworkFilter.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\madrupam\mydrivers\MyNetworkFilter\x64\Debug\MyNetworkFilter\mynetworkfilter.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\madrupam\mydrivers\MyNetworkFilter\x64\Debug\MyNetworkFilter\mynetworkfilter.cat
+  
